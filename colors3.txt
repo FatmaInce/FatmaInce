@@ -1,6 +1,7 @@
 yellow
 red
 black
-
+orange
+pink
 
 
