@@ -3,5 +3,6 @@ red
 black
 orange
 pink
+gray
 
 
