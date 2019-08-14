@@ -5,3 +5,14 @@
 
 //2. way 
 //intelliJ right click on your project " resolve conflict"
+
+
+//after adding or changing your branch
+// git add .
+//git commit -m " message"
+//git checkout master
+//git merge your branch
+//git commit -m "for merge"
+//git status
+//git pull
+//git push
