@@ -1,0 +1,7 @@
+//to solve conflict we need to delete ">>>>>>>>>"
+//git add .
+//git commit -m "some message"
+
+
+//2. way 
+//intelliJ right click on your project " resolve conflict"
