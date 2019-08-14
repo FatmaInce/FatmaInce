@@ -10,6 +10,10 @@ public class ContactsTest {
         System.out.println("Driver goes to contacts page");
         System.out.println("learning creating git branch");
 
+        System.out.println("studying git");
+        System.out.println("studying git workflow");
+
+
 
 
     }
